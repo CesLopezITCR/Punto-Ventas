@@ -1,0 +1,14 @@
+c:\users\cesar\documents\visual studio 2017\Projects\Punto_Venta\Punto_Venta\bin\Debug\Punto_Venta.exe.config
+c:\users\cesar\documents\visual studio 2017\Projects\Punto_Venta\Punto_Venta\bin\Debug\Punto_Venta.exe
+c:\users\cesar\documents\visual studio 2017\Projects\Punto_Venta\Punto_Venta\bin\Debug\Punto_Venta.pdb
+c:\users\cesar\documents\visual studio 2017\Projects\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.csprojResolveAssemblyReference.cache
+c:\users\cesar\documents\visual studio 2017\Projects\Punto_Venta\Punto_Venta\obj\Debug\MainWindow.g.cs
+c:\users\cesar\documents\visual studio 2017\Projects\Punto_Venta\Punto_Venta\obj\Debug\App.g.cs
+c:\users\cesar\documents\visual studio 2017\Projects\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta_MarkupCompile.cache
+c:\users\cesar\documents\visual studio 2017\Projects\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta_MarkupCompile.lref
+c:\users\cesar\documents\visual studio 2017\Projects\Punto_Venta\Punto_Venta\obj\Debug\MainWindow.baml
+c:\users\cesar\documents\visual studio 2017\Projects\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.g.resources
+c:\users\cesar\documents\visual studio 2017\Projects\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.Properties.Resources.resources
+c:\users\cesar\documents\visual studio 2017\Projects\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.csproj.GenerateResource.Cache
+c:\users\cesar\documents\visual studio 2017\Projects\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.exe
+c:\users\cesar\documents\visual studio 2017\Projects\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.pdb
