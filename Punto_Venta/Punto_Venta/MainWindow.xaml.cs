@@ -32,7 +32,11 @@ namespace Punto_Venta
 
         private void BtClick_Login(object sender, RoutedEventArgs e)
         {
-            Console.WriteLine("hola");
+            String usuario = TUsuario.Text;
+            String contra = TPContra.Password.ToString();
+            Login login = new Login();
+            login.iniciar(usuario, contra);
+            
         }
     }
 }
