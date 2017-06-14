@@ -12,3 +12,5 @@ c:\users\cesar\documents\visual studio 2017\Projects\Punto_Venta\Punto_Venta\obj
 c:\users\cesar\documents\visual studio 2017\Projects\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.csproj.GenerateResource.Cache
 c:\users\cesar\documents\visual studio 2017\Projects\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.exe
 c:\users\cesar\documents\visual studio 2017\Projects\Punto_Venta\Punto_Venta\obj\Debug\Punto_Venta.pdb
+C:\Users\Cesar\Documents\Visual Studio 2017\Projects\Punto_Venta\Punto_Venta\bin\Debug\MySql.Data.dll
+C:\Users\Cesar\Documents\Visual Studio 2017\Projects\Punto_Venta\Punto_Venta\bin\Debug\MySql.Data.xml
